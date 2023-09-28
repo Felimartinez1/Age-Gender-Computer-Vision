@@ -22,10 +22,6 @@ To get started with this project, follow these steps:
 
 3. **Usage**: Use the provided Python script to load the trained model and perform age and gender estimation on your own facial images.
 
-## Model Training
-
-If you want to retrain the model on your own dataset or fine-tune it for specific tasks, you can find detailed instructions in the `train_model` directory.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
